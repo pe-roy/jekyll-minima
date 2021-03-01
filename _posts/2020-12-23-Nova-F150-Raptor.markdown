@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Nova F-150 Tremor"
+date:   2020-12-23 10:35:32 -0300
+categories: FORD F-150 TREMOR
+author: Leno
+---
+<div id="top"></div>
+<img src="/assets/f-150-agua.webp" alt="F150-TREMOR" style="float:right;width:100%;height:100%;">
+
+<img src="/assets/abarlavento.png" alt="Abarlavento Icon" style="float:left;width:90px;height:50px;">
+A **FORD** americana já tem a venda a nova F-150 TREMOR, com toda a tecnologia presente desde a contrução da carroceria, 
+em alumínio, o que faz com que ela seja muito leve e eficiente, até a eletrônica embarcada de última geração.
+
+Uma carroceria em alumínio significa uma tecnologia sem precedentes na união das chapas por solda, uma qualidade incrível e uma proteção
+natural contra corrosão.
+
+É incrível como esse tipo de tecnologia, antes apenas disponível a um seleto grupo de pessoas, passa cada 
+vez mais a estar disponível para o grande público. 
+
+Os valores, convertidos diretamente, partem de R$ 150.00,00 e vão até R$ 300.000,00. Comparados com os preços praticados no Brasil, entendemos 
+como impostos são capazes de fazer um país retroceder tecnologicamente e tornar-se refém ou mero espectador de um mundo 
+em transformação.
+
+<img src="/assets/f-150-agua.webp" alt="F150-TREMOR" style="float:right;width:150px;height:115px;">
+<blockquote cite="https://www.ford.com/trucks/f150/?intcmp=hp-brandgallery-f150tremor">
+The all-new F-150 is purpose-built from the ground up — redesigned to be the toughest, most productive F-150 ever. This is what happens when you merge premium-grade muscle with finely tuned intelligence and design. A beast with brains. A relentlessly tough, high-strength, military-grade, aluminum-alloy body and torture-tested high-strength steel frame with new tech to help you work smarter and harder.
+</blockquote>[Ford F-150](https://www.ford.com/trucks/f150/?intcmp=hp-brandgallery-f150tremor)
+
+Além de ser robusta e tecnológica, a Tremor da Ford possui, por ser híbrida, um gerador de eletricidade capaz de suprir as necessidade de uma pequena casa ou de um acampamento.
+
+Para o trabalho, ela permite utilizar **máquinas de solda e lixadeiras** para os mais diversos trabalhos em campo.
+
+É uma picape para trabalho, com muito conforto, de acordo com as origens e tradição da Ford ao longo desse mais de século de inovação e tecnologia.
+<img src="/assets/F150-Generator.PNG" alt="F-150: Eletricidade disponível" style="float:right;width:264px;height:122px;">
+<blockquote cite="https://new.abb.com/products/robotics/industrial-robots/irb-14000-yumi">
+With Pro Power Onboard, you can jump-start your jobsite or campsite. This new, class-exclusive* available feature gives you the ability to use your truck as a mobile generator. Just choose one of three outputs — 2.0kW (available with optional gas engines), 2.4kW (standard with the PowerBoost™ Full Hybrid engine) and massively powerful 7.2kW (available with the PowerBoost Full Hybrid engine) — and power everything from an arc welder to an electric grill or that 70-inch TV at the center of your tailgate. It can even be monitored from a distance with the FordPass™ App while keeping your vehicle in a keyless idle.
+</blockquote>[Ford F-150](https://www.ford.com/trucks/f150/?intcmp=hp-brandgallery-f150tremor)
+
+Ficou com vontade de adquirir uma?
+Por enquanto só nos Estados Unidos, México e Canadá.
+
+E se precisar de informções sobre tecnologia ou automação e técnicas de construção para a indústria, pode contar conosco!
+

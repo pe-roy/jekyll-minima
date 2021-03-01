@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Saúde e Vacinas"
+date:   2020-12-28 21:46:32 -0300
+categories: saude vacinas
+author: Auto
+---
+<div id="top"></div>
+# Saúde e Vacinas #
+
+<img src="/assets/Future-Health.jpeg" alt="Saúde e Tecnologia" style="width:100%;height:100%;">
+
+<img src="/assets/abarlavento.png" alt="Abarlavento Icon" style="float:left;width:90px;height:50px;">
+Nem sempre é fácil compreender as relações entre saúde e tecnologia.
+Houve um tempo em que era possível uma pessoa estudar e ser capaz de aprender e apreender todo o conhecimento disponível. Esse tempo foi até a idade média, quando em seus estertores, veio o renascimento que pôs o ser humano no centro do universo.
+
+Timidamente novos conceitos e saberes foram sendo inseridos na vida do ser, que havia pouco, nascia e morria por graça de Deus. Até então os saberes de saúde não eram muito aprofundados.
+
+<img src="/assets/040220-47-History-Medieval-Middle-Ages-Black-Death-Disease.jpg" alt="A Peste" style="float:right;width:50%;height:40%;">
+Sabia-se o que comer, algumas ervas que funcionavam como remédios para algumas doenças, fruto de experiências imemoriais passadas verbalmente por gerações.
+<blockquote>Carl Sagan disse:
+Comemos frutas silvestres e raízes. Nozes e folhas. E animais mortos. Alguns animais nós achamos. Outros, matamos. Sabemos quais alimentos são bons e quais são perigosos. Se experimentamos determinados alimentos, isso nos faz mal, como castigo por tê-los comido. Não tínhamos a intenção de fazer algo ruim. Mas dedaleira ou cicuta podem matar você. COSMOS , A espinha dorsal da Noite.
+</blockquote>
+
+As amarras tanto da igreja quanto da sociedade foram sendo soltas e centros de saber foram criados por toda a Europa. As Universidades puderam criar métodos de pesquisa e de melhoramento de processos e materiais.
+Quem mais se beneficia disso são os processos químicos, medicinais e metalúrgicos.
+Nesse ponto, as pessoas da elite podiam contar com os avanços tecnológicos para obter uma melhor qualidade de vida. 
+As demais pessoas são atingidas e beneficiadas pelos avanços tecnológicos de forma contundente a partir de meados do século dezenove. Fez parte desse pacote de benefícios para a população em geral a primeira vacina, a agua potável, energia e transporte, bem como o barateamento e popularização dos bens de consumo, principalmente devido à revolução industrial.
+<blockquote cite="https://revistagalileu.globo.com/Sociedade/noticia/2017/08/5-fatos-perturbadores-sobre-idade-media.html">A Igreja Católica limitava o acesso do estudo da medicina aos medievais. Por isso, muitos barbeiros eram encarregados de fazer cirurgias e extração de dentes sem anestesia e higiene.
+Os 'cirurgiões' tinham que improvisar para amenizar a dor dos pacientes, e lhes davam bebidas alcoólicas antes dos procedimentos. O pós-operatório também não era nada tranquilo: até o século 16, as feridas eram tratadas com óleo quente.
+</blockquote>
+Hoje quem precisa de atendimento médico pode contar com a certeza de diagnóstico preciso e a possibilidade de cura ou convivência com determinada doença. Sentenças de morte proferidas anteriormente quando havia um corte ou hemorragia, ou quando havia câncer, hoje podem ser definitivamente curadas.
+<img src="/assets/skullscan_468x424.jpg" alt="Scanning 3D" style="float:left;width:50%;height:50%;">
+
+Diagnósticos por imagem podem varrer o corpo humano e recriá-lo em três dimensões, ao mesmo tempo que guiam as mão de cirurgiões ou braços robóticos.
+
+Quando falamos em vacinas e no tempo de pesquisa entre a descoberta da doença, entre o saber o que causa a doença, e como criar um agente capaz de gerar anticorpos nas pessoas sem causar uma doença grave, sabemos que esse tempo foi grande.
+
+A vacina da varíola, através do insight de Edward Jenner, foi criada em um processo de 50 anos. Primeiro verificou que pessoas que ordenhavam vacas com uma variante da varíola não desenvolviam a doença. Testou a inoculação do pus de pessoas imunes a variola e só então desenvolveu um soro com o vírus da varíola inerte que fosse capaz de gerar anticorpos suficientes que proporcionasse uma cura da doença em pouco tempo.
+
+Durante o século XX foi desenvolvida a maioria das vacinas que temos hoje disponíveis. Teoricamente é muito fácil criar uma vacina.
+
+O agente causador da doença é enfraquecido ou morto, colocado em um meio condutor e injetado na pessoa que se quer proteger.
+
+Neste ano que se encerra, após um ano de **covid-19** causada pelo *sars-cov-2* temos a disposição de inúmeras vacinas, criadas e testadas em tempo recorde, de menos de 6 meses, com os testes seguindo-se aos seis meses seguintes.
+
+Muitas dessas vacinas são tradicionais, tendo traços do vírus ou o vírus enfraquecido, da forma tradicional, gestados na proteína do ovo, ou semelhante meio condutor.
+
+Algumas se utilizaram do processo chamado de **RNA mensageiro, ou m-RNA**, que nada mais é um trecho do RNA do vírus, trecho fabricado em laboratório, que orienta as células de defesa do organismo a identificar o vírus e eliminá-lo assim que o agente penetra a corrente sanguínea. Uma vacina desse tipo atinge uma eficácia superior a 90%, enquanto as vacinas criadas na forma tradicional tem sua eficiência entre 50 e 90%.
+
+O Brasil, devido a uma postura negacionista e negligente, não dispõe de nenhuma vacina para aplicação na população. Há vacinas em testes, porém nenhuma foi aprovada ou liberada para fabricação. No caso de importação, os laboratórios não tem capacidade ou interesse em fornecer as vacinas para o Brasil nesse momento.
+
+Assim, não importa qual vacina seja a melhor. Nesse momento não temos nenhuma disponível. A única chance de brasileiros e brasileiras serem vacinados é nos países da Europa, Reino Unido, Estados Unidos, Chile e Argentina.
+
+<img src="/assets/painel-vacina.webp" alt="Painel vacina cnn" style="width:100%;height:100%;">
+<figcaption>Painel de países que já iniciaram a vacinação até 30 de dezembro</figcaption>
+
+[CNN Brasil](https://www.cnnbrasil.com.br/saude/2020/12/24/quais-os-paises-que-ja-comecaram-a-vacinacao-contra-a-covid-19)
+
+<a href="#top">**topo da página**</a>
+

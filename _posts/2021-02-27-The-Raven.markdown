@@ -1,0 +1,126 @@
+---
+layout: post
+title:  "The Raven"
+date:   2021-02-27 10:59:32 -0300
+categories: geral motivar
+author: Paulo
+---
+<div id="top"></div>
+
+<img src="/assets/Lua.jpg" alt="Lua.jpg" style="width:100%;">
+<div class="o-poem " data-view="PoemView">
+                    
+                    
+                    <div style="text-indent: -1em; padding-left: 1em;">Once upon a midnight dreary, while I pondered, weak and weary,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Over many a quaint and curious volume of forgotten lore—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     While I nodded, nearly napping, suddenly there came a tapping,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ As of some one gently rapping, rapping at my chamber door.<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ “’Tis some visitor,” I muttered, “tapping at my chamber door—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Only this and nothing more.”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Ah, distinctly I remember it was in the bleak December;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ And each separate dying ember wrought its ghost upon the floor.<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Eagerly I wished the morrow;—vainly I had sought to borrow<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     From my books surcease of sorrow—sorrow for the lost Lenore—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ For the rare and radiant maiden whom the angels name Lenore—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Nameless <em>here</em> for evermore.<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     And the silken, sad, uncertain rustling of each purple curtain<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Thrilled me—filled me with fantastic terrors never felt before;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     So that now, to still the beating of my heart, I stood repeating<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     “’Tis some visitor entreating entrance at my chamber door—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Some late visitor entreating entrance at my chamber door;—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             This it is and nothing more.”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Presently my soul grew stronger; hesitating then no longer,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ “Sir,” said I, “or Madam, truly your forgiveness I implore;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     But the fact is I was napping, and so gently you came rapping,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     And so faintly you came tapping, tapping at my chamber door,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ That I scarce was sure I heard you”—here I opened wide the door;—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Darkness there and nothing more.<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Deep into that darkness peering, long I stood there wondering, fearing,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Doubting, dreaming dreams no mortal ever dared to dream before;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     But the silence was unbroken, and the stillness gave no token,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     And the only word there spoken was the whispered word, “Lenore?”<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ This I whispered, and an echo murmured back the word, “Lenore!”—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Merely this and nothing more.<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Back into the chamber turning, all my soul within me burning,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Soon again I heard a tapping somewhat louder than before.<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     “Surely,” said I, “surely that is something at my window lattice;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+       Let me see, then, what thereat is, and this mystery explore—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Let my heart be still a moment and this mystery explore;—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             ’Tis the wind and nothing more!”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Open here I flung the shutter, when, with many a flirt and flutter,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ In there stepped a stately Raven of the saintly days of yore;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Not the least obeisance made he; not a minute stopped or stayed he;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     But, with mien of lord or lady, perched above my chamber door—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Perched upon a bust of Pallas just above my chamber door—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Perched, and sat, and nothing more.<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Then this ebony bird beguiling my sad fancy into smiling,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ By the grave and stern decorum of the countenance it wore,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ “Though thy crest be shorn and shaven, thou,” I said, “art sure no craven,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Ghastly grim and ancient Raven wandering from the Nightly shore—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Tell me what thy lordly name is on the Night’s Plutonian shore!”<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Quoth the Raven “Nevermore.”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Much I marvelled this ungainly fowl to hear discourse so plainly,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Though its answer little meaning—little relevancy bore;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     For we cannot help agreeing that no living human being<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Ever yet was blessed with seeing bird above his chamber door—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Bird or beast upon the sculptured bust above his chamber door,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             With such name as “Nevermore.”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     But the Raven, sitting lonely on the placid bust, spoke only<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ That one word, as if his soul in that one word he did outpour.<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Nothing farther then he uttered—not a feather then he fluttered—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Till I scarcely more than muttered “Other friends have flown before—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ On the morrow <em>he</em> will leave me, as my Hopes have flown before.”<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Then the bird said “Nevermore.”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Startled at the stillness broken by reply so aptly spoken,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ “Doubtless,” said I, “what it utters is its only stock and store<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Caught from some unhappy master whom unmerciful Disaster<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Followed fast and followed faster till his songs one burden bore—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Till the dirges of his Hope that melancholy burden bore<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Of ‘Never—nevermore’.”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     But the Raven still beguiling all my fancy into smiling,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Straight I wheeled a cushioned seat in front of bird, and bust and door;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Then, upon the velvet sinking, I betook myself to linking<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Fancy unto fancy, thinking what this ominous bird of yore—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ What this grim, ungainly, ghastly, gaunt, and ominous bird of yore<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Meant in croaking “Nevermore.”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     This I sat engaged in guessing, but no syllable expressing<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ To the fowl whose fiery eyes now burned into my bosom’s core;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     This and more I sat divining, with my head at ease reclining<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     On the cushion’s velvet lining that the lamp-light gloated o’er,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ But whose velvet-violet lining with the lamp-light gloating o’er,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             <em>She</em> shall press, ah, nevermore!<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Then, methought, the air grew denser, perfumed from an unseen censer<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Swung by Seraphim whose foot-falls tinkled on the tufted floor.<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     “Wretch,” I cried, “thy God hath lent thee—by these angels he hath sent thee<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Respite—respite and nepenthe from thy memories of Lenore;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Quaff, oh quaff this kind nepenthe and forget this lost Lenore!”<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Quoth the Raven “Nevermore.”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     “Prophet!” said I, “thing of evil!—prophet still, if bird or devil!—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Whether Tempter sent, or whether tempest tossed thee here ashore,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Desolate yet all undaunted, on this desert land enchanted—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     On this home by Horror haunted—tell me truly, I implore—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Is there—<em>is</em> there balm in Gilead?—tell me—tell me, I implore!”<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Quoth the Raven “Nevermore.”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     “Prophet!” said I, “thing of evil!—prophet still, if bird or devil!<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ By that Heaven that bends above us—by that God we both adore—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Tell this soul with sorrow laden if, within the distant Aidenn,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     It shall clasp a sainted maiden whom the angels name Lenore—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Clasp a rare and radiant maiden whom the angels name Lenore.”<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Quoth the Raven “Nevermore.”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     “Be that word our sign of parting, bird or fiend!” I shrieked, upstarting—<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ “Get thee back into the tempest and the Night’s Plutonian shore!<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Leave no black plume as a token of that lie thy soul hath spoken!<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     Leave my loneliness unbroken!—quit the bust above my door!<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ Take thy beak from out my heart, and take thy form from off my door!”<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Quoth the Raven “Nevermore.”<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div><div style="text-indent: -1em; padding-left: 1em;">
+     And the Raven, never flitting, still is sitting, <em>still</em> is sitting<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ On the pallid bust of Pallas just above my chamber door;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     And his eyes have all the seeming of a demon’s that is dreaming,<br></div><div style="text-indent: -1em; padding-left: 1em;">
+     And the lamp-light o’er him streaming throws his shadow on the floor;<br></div><div style="text-indent: -1em; padding-left: 1em;">
+ And my soul from out that shadow that lies floating on the floor<br></div><div style="text-indent: -1em; padding-left: 1em;">
+             Shall be lifted—nevermore!<br></div><div style="text-indent: -1em; padding-left: 1em;"><br></div>
+                </div>
+    
+[**The Raven - By Edgar Allan Poe - @ Poetry Foundation**](https://www.poetryfoundation.org/poems/48860/the-raven)
+
+<a href="#top">**topo da página**</a>

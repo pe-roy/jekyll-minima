@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Manutenção Preditiva - Sensores sem Fio"
+date:   2020-12-24 21:46:32 -0300
+categories: wifi banner q45
+author: Auto
+---
+<div id="top"></div>
+# Sensores sem fio "**Tudo em um**" #
+
+<img src="/assets/Q45.PNG" alt="Banner Q45 Series" style="width:454px;height:287px;">
+
+<img src="/assets/abarlavento.png" alt="Abarlavento Icon" style="float:left;width:90px;height:50px;">
+A **BANNER**, tradicional fabricantes de dispositivos de automação industrial, tem em seu portifólio de se sensores
+ uma solução completa do tipo *tudo em um* focado para manutenção preditiva.
+ 
+ É a manutenção preditiva levada a um outro patamar, capaz de ter as informações dos dispositivos em tempo real para que a engenharia de 
+ manutenção tome as melhores decisões de forma a proteger os ativos da compania.
+
+A série Q45 all-in-one combina um nó wireless, sensor e alimentação por bateria em uma montagem fácil de 
+ instalar capaz de monitorar equipamentos e dispostivos em locais remotos e difíceis de acessar.
+
+* Design *all-in-one* elimina o tempo, trabalho e o custo de instalar sensores e nós separados
+* O **Q45VA** *all-in-one* é um sensor sem fio de temperatura e de vibração com nó integrado que monitora a saúde e a performance de motores,
+ bombas, e equipmantos similares com movimentos rotativos.
+* O **Q45UA** *all-in-one* é um sensor ultrasonico com nó sem fio integrado que monitora o nível e a posição de fluidos ou materiais secos, como grãos, em tanques, sacos e containers.
+* O **Q45PS** *all-in-one* é um sensor de pressão e nó sem fio integrado que mede gás, ar e fluidos sob pressão em sistemas e equipamentos.
+* O **Q45TA** é um termistor com nó sem fio integrado que mede temperatura em áreas ou processos chave.
+* O **Q45THA** é um sensor de temperatura e de umidade com nó sem fio integrado que monitora condições do ambiente em uma variedade de aplicações
+* Você pode utilizar serviços de Cloud para criar aplicações end-to-end IOT que permitem ter as informações coletadas de forma visual e assim acompanhar o processo e o funcionamentos dos ativos na abse instalada.
+
+Abaixo o gráfico de uma aplicação do sensor de temperatura com dados salvos na nuvem e disponíveis para análise e acompanhamento.
+<img src="/assets/q45-Grafico.PNG" alt="Banner Q45 Series Gráfico" style="center;width:100%;height:100%;">
+
+O Documento base está aqui:
+[Banner estudo de caso](https://info.bannerengineering.com/cs/groups/public/documents/literature/b_4501558.pdf)
+
+Você pode [obter o pdf](/assets/b_4501558.pdf) diretamente.
+
+O importante é que cada vez mais não é preciso levar uma infraestrutura de pontos de entrada em painéis,
+ em rede de PLC, enviar esses dados de leitura para um servidor remoto e tratar as informações.
+
+Há um tempo atrás uma tecnologia revolucionária foi o uso de *tags RFID* para registro das condições de cada equipamento. Essa etiqueta RFID era lida e atualizada com os valores de manutenção preditiva obtidos durante as medições.
+
+Porém o que se lança agora são dispositivos cada vez **mais inteligente e eficientes**, conectados a rede mundial de computadores de maneira segura e criptografada.
+
+Mais ferramentas de trabalho para a engenharia, a manutenção e o mundo da tecnologia.
+
+<a href="#top">**topo da página**</a>
+

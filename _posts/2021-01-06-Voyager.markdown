@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Voyager"
+date:   2021-01-06 21:46:32 -0300
+categories: geral Nasa Voyager
+author: Paul
+---
+<div id="top"></div>
+# Voyager #
+
+<img src="/assets/Voyager.jpg" alt="Voyager Full" style="width:100%;">
+[NASA](https://voyager.jpl.nasa.gov/mission/status/)
+
+<img src="/assets/abarlavento.png" alt="Abarlavento Icon" style="float:left;width:90px;height:50px;">
+**Ao olhar** para o céu numa calma e tranquila noite sem nuvens recebemos o convite das estrelas para um mergulho galáctico. Como viajantes já fomos a muitos lugares neste planeta, mas nunca fomos além da lua. Isso representa nossa insignificância diante de um universo hostil e perigoso.
+
+**Poucas pessoas foram até a lua**, algumas mais entraram em órbita e outras tantas pisaram na estação espacial internacional, que está a quatrocentos quilômetros de distância do planeta, bem menos que a meio caminho da lua. 
+
+**O universo** é tudo menos um paraíso. É hostil a vida e a permanência dos planetas, quando olhamos a longo prazo, e com o universo, tudo é a longo prazo.
+
+**Em nosso pequeno paraíso**, talvez o único com vida inteligente neste momento, somos constantemente bombardeados por radiação proveniente do Sol e só não morremos igual Marte devido a atmosfera protetora.
+
+**Logo que saímos da atmosfera**, já perdemos a proteção e os riscos de câncer, congelamento ou queimaduras são imediatos.
+
+**Nunca fomos além da Lua** com seres humanos como tripulantes. Nosso engenho levou-nos a construir artefatos capazes de ir a outros mundos. Assim visitamos planetas e conseguimos enviar fotos e dados incríveis de outros mundos, inóspitos por formação, mas belíssimos enquanto descobertas.
+
+**Mais do que isso**, enviamos sondas chamadas ***Voyager I e Voyager II***, ambas rumo aos limites do nosso sistema solar, numa viagem que já perdura mais de quarenta anos. São dispositivos eletrônicos com a mais avançada tecnologia disponível nos anos 1970, mantidos funcionando por uma fonte de energia nuclear neste momento quase esgotada.
+
+**Instrumentos em operação após mais de 40 anos!**
+<img src="/assets/Tabela.png" alt="Voyager Tempo de operação" style="width:100%;">
+**As sondas Voyager** ainda mandam dados para a Nasa, porém entraram em modo stand-by devido a distância e a energia necessária para manter o básico de funções operando.
+A intensidade do transmissor da Voyager 1 é de **23 watts** e chega até nós menos de ***1 attowatt***, a **bilionésima bilionésima** parte de **um watt**
+O sinal demora 19 horas para alcançar a terra e vice-versa, para realinhar antenas ou instrumentos, de acordo com a necessidade.
+Tarefas de reprogramação são críticas, porém necessárias eventualmente e fazem do sistema elétrico e eletrônico um dos mais confiáveis do universo conhecido.
+
+**Tempo de operação da Voyager desde o lançamento**
+<img src="/assets/tabela2.png" alt="Voyager Tempo de operação" style="width:100%;">
+
+**Posição da Sonda Voyager 1, nos confins do sistema solar, em escala de grandeza**
+<img src="/assets/voayager position.png" alt="Voyager Position" style="width:100%;">
+[NASA](https://voyager.jpl.nasa.gov/mission/status/) tem todas as informações não apenas sobre a voyager, mas sobre todas as sondas e missões já patrocinadas pela humanidade.
+
+<a href="#top">**topo da página**</a>
+

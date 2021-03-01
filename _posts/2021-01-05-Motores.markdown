@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Movendo a humanidade"
+date:   2021-01-05 21:46:32 -0300
+categories: geral motores
+author: Paul
+---
+<div id="top"></div>
+# Motores elétricos e à explosão #
+
+<img src="/assets/roadster-social.jpg" alt="TESLA Roadster" style="width:50%;">
+
+<img src="/assets/abarlavento.png" alt="Abarlavento Icon" style="float:left;width:90px;height:50px;">
+**Motores** moveram a humanidade nos últimos séculos. Primeiro os motores a vapor, depois os elétricos e por fim, os motores a explosão. Parece incorreto mas os motores elétricos foram amplamente aplicados até o final do século 19, quando o motor a explosão é difundido.
+
+Essa difusão ocorreu porque passou-se a controlar melhor o processo de explosão na câmara de combustão, obteve-se melhor precisão na usinagem, um combustível melhor e estável passou a ser disponibilizado de forma barata.
+
+Devido a isso o motor elétrico foi posto de lado, porém seguiu seu próprio desenvolvimento ao longo das décadas nos setores industriais, onde a energia era disponível nas linhas de distribuição.
+
+**A inviabilidade** do uso do motor elétrico em automóveis foi a incrível capacidade de energia disponível em um grama de combustível quando comparada a um grama de eletrólito das baterias, significando que um motor a explosão poderia ser mais potente e ter uma autonomia muito maior.
+
+Outra desvantagem do motor elétrico a época é que era usado um **motor de corrente contínua** que para funcionar precisava de escovas de carvão ou grafite para gerar um campo magnético defasado e oposto no rotor em relação ao campo do estator e sistemas ou peças e componentes mais elaborados que o simples caneco no qual se juntava ar e combustível e fazia-se a ignição. 
+
+<img src="/assets/Ford_model_t_1919_d017_thermo_syphon_cooling_system.png" alt="Ford Model T Engine" style="float:left;width:60%;">
+Os motores a combustão interna, à época, precisavam **apenas de gasolina**. Não havia velas, baterias, motor de arranque, sistema elétrico. Basta lembrar que a partida era dada via manivela e a razão disso é que a mistura ar + combustível explode naturalmente sem a necessidade de ignição desde que esteja na proporção adequada e seja comprimida a uma pressão de 8 para 1. Ou seja, um volume de 1 litro em repouso, comprimido para 0,125 litros irá explodir naturalmente.
+
+Nesse caso o ponto de explosão dependia de não haver vazamentos e que a houvesse uma certa precisão na montagem da mistura.
+
+Claro que não havia e a eficiência era reduzida, quando não, o motor literalmente explodia.
+
+Mas o destino dos motores elétricos já estava traçado, pois o combustível era muito barato e não se dependia de ferramental específico para construir um motor a explosão.
+
+O que se segue é a evolução **não do motor a explosão**, que continua literalmente igual ao princípio de criação. Adiciona-se facilidades e mecanismos de controle.
+
+As facilidades foram o **motor de arranque**, um **sistema elétrico**, sistema de **velas** para garantir a fagulha e a explosão no ponto ideal de torque, sistemas de **injeção de combustível** e sistemas de preparação da mistura ar combustível, como **turbo compressores.**
+
+No caso de motores elétricos a evolução foi mais lenta devido às características inerentes ao motor. A variação de velocidade só era obtida em motores de corrente contínua, através da variação da resistência do campo ou da tensão de excitação, o que era uma dificuldade de aplicação em automóveis. Seu uso ficou restrito a elevadores e pontes rolantes. 
+
+Para variar a velocidade de motores em corrente alternada, sabia-se que bastava modificar a quantidade de pólos no estator ou variando-se a frequência, coisa que era na prática inviável, além dos automóveis não possuírem um sistema de corrente alternada.
+
+O que se seguiu a popularização dos motores a explosão em automóveis foi a cadeia de fornecedores que faziam as peças que montam um motor, além de caixas de transmissão e acessórios. Basta pensar nas velas, peças do motor de arranque e peças do sistema elétrico e eletrônico que se seguiram para entregar uma melhor eficiência na queima do combustível.
+
+**Um dos grandes problemas da queima de combustível** para motores em automóveis é o próprio uso do combustível. Afinal essa queima decorre do uso de **petróleo enterrado em profundezas**, na condição de carbono sequestrado da atmosfera e que **deveria** ficar sequestrado.
+
+No caso do motor elétrico os problemas só foram solucionados nas últimas duas décadas. Houve o barateamento de circuitos eletrônicos capazes de controlar torque e velocidade dos motores e houve o avanço no sistema de armazenamento de energia, ainda muito aquém da quantidade de energia presente no combustível.
+
+Tanto que no início, e até hoje, foram utilizados sistemas híbridos onde um motor a combustão alimentava os sistemas elétricos e carregava as baterias.
+É mais barato armazenar combustível do que baterias. **Ainda é, mas essa relação está baixando**. Em breve será mais barato armazenar energia sob a forma de **eletrólito**
+
+Um carro movido por motores elétricos é extremamente simples, com menos peças móveis ou circuitos para compensar as fragilidades do motor a combustão.
+
+Uma das **vantagens do motor elétrico** é que ele é capaz de se carregar quando os freios são acionados ou quando se está descendo um declive, operando de forma regenerativa. 
+
+Os motores elétricos utilizados em automóveis hoje possuem torque em todas as faixas de rotação, na condição de servos motores, os mesmos utilizados em robótica. Assim não se precisa de redutores ou caixas automáticas ou quaisquer sistemas mecânicos ou hidráulicos de adaptação de velocidade. O que existe, acredite ou não, são controles que simulam a existência de marchas, mas totalmente desnecessários ao funcionamento do carro.
+
+Não resta dúvida sobre quem irá ganhar essa guerra. As batalhas ainda estão acontecendo, sendo favoráveis ao motor elétrico. Mesmo com a invenção de gasolina que não polui ou combustíveis alternativos sem poluentes, a indústria automotiva está se reinventando e a cadeia de fornecedores, além de preocupada, está ajustando-se aos novos tempos. 
+
+**O que fazer com fábricas** de cabeçotes ou blocos de motores? Fábricas de velas? Fábricas de transmissões? Fábricas de embreagens?
+Apenas as fábricas de baterias e de motores elétricos vão sobreviver? **É disruptivo** sim, e a energia limpa chegou para ficar.
+
+
+[Apostila de Motores UFPEL](https://wp.ufpel.edu.br/mlaura/files/2013/01/Apostila-de-Motores-a-Combust%C3%A3o-Interna.pdf)
+
+<a href="#top">**topo da página**</a>
+

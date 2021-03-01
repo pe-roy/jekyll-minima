@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Tecnologias Obsoletas"
+date:   2021-01-13 16:46:32 -0300
+categories: automation obsolescence
+author: Paulo
+---
+<div id="top"></div>
+# Obsolescência #
+
+<img src="/assets/mimeografo.jpeg" alt="Mimeógrafo Edison" style="width:100%;">
+
+<img src="/assets/abarlavento.png" alt="Abarlavento Icon" style="float:left;width:90px;height:50px;">
+**O Professor Leandro Karnal** disse uma vez que ele era especialista em tecnologias obsoletas. Ao elencá-las, citava a datilografia e a operação de *mimeógrafo*. As duas tecnologias são, sim, **muito obsoletas**, mesmo que a primeira tenha encontrado utilidade nos teclados de computadores e assim, serem ainda úteis na digitação. Mais modernamente podemos utilizar, em vez do teclado, o recurso que transforma fala em texto, sendo depois necessário apenas revisá-lo e inserir sinais de pontuação. No caso do mimeógrafo, não. Saber operar um mimeógrafo não adiciona nada de conhecimento prático nos dias de hoje, porquanto tenha se tornado completamente obsoleto frente às impressoras e fotocopiadoras.
+
+Ser especialista em tecnologias obsoletas pode ter vantagens que vão além de escrever um texto com esse, ou além de ser uma testemunha da evolução porque passa a humanidade. Dizer **no meu tempo era assim** tem sua beleza e atrai olhares admirados. Conversar com alguém que usou válvulas catódicas ou memórias tipo core é inestimável.
+
+A nossa geração, nascida nos anos 1970, crescendo nos estertores da ditadura, começando a trabalhar na eliminação da reserva de mercado e atingindo a maturidade na explosão da internet, nunca pensou que seria especialista em tecnologias obsoletas.
+
+* Fui treinado pelas locadoras de filmes nos anos 1980 para rebobinar a fita. 
+
+* Sei o que significa discar um número no telefone, mesmo que não haja mais discos numerados que acionam os contatos conforme o numero "discado".
+
+* Alguns ainda falam: queimou o filme, e como está em desuso, eu sei *a idade mínima da pessoa*.
+
+* Ver um filme no cinema, significava que a produção cinematográfica estava registrada em uma fina película que, similar a fotos, era capaz de mostrar imagens em movimento. Em espanhol, filmes são chamados de "películas".
+
+E **troque o disco**? Na adolescência o *"cool"* era ter e escutar CD. Pois hoje os CDs não existem mais, seus sucessores estão tão esquecidos quanto (DVD, DV e VCD), mas quando pensa que não, os vinis voltam mais *"cool"* do que quando foram lançados ou quando imperavam imbatíveis nas salas das pessoas.
+
+Na tecnologia industrial foi a mesma coisa. Apenas o que é abandonado não volta mais. Um aviso de determinado componente entrar em obsolescência acende uma lâmpada vermelha e uma sirene nas empresas... 
+
+Dos painéis com contactores e relés fomos para os circuitos eletrônicos. O *"cool"* era fazer automações dedicadas utilizando portas lógicas de circuitos integrados montadas em circuito impresso. Em seguida vieram os microprocessadores e após os PLC. Nesses casos, nada voltou atrás e quem não se atualizou acabou sendo solapado pelas novas tecnologias, servindo apenas de testemunha ocular ou suporte técnico em velharias. Ou contador de histórias.
+
+Saber PLC era o máximo, mas não foi suficiente também, pois logo precisávamos saber algum standard de programação, pois as lógicas ficavam tão complexas e seguras que era preciso contêineres de lógicas dentro do PLC para fazer o funcionamento correto do processo. Achava que seria eterno programar um PLC 5.
+
+Nada podia dar errado, bastava aprender um standard, aplicá-lo corretamente e tudo ficaria bem. Claro que não ficou. Esses padrões têm uma vida menor do que o hardware e são constantemente submetidos a uma evolução constante. A programação de PLC precisou ser certificada para além de saber programar um PLC Siemens ou Rockwell. Precisou-se certificar em **DCP-8, DCP-16, COMAU, VW** e assim por diante, conforme cada setor ou montadora de automóveis, no caso dos exemplos. 
+
+Com a **saída da Ford** do Brasil realizei que sou especialista em um standard de programação obsoleto, o **DCP**, que a Ford utilizava nas plantas de **Camaçari, São Bernardo e General Pacheco**. Outras empresas ainda utilizam esse padrão, como a VOLVO cars e a Jaguar-Land Rover, porém acredito que por pouco tempo, seguindo a natural evolução de softwares. A própria Ford já tinha colocado esse padrão em obsolescência, trazendo o padrão Nextgen, que pelo nome parecia novo, mas apenas já era utilizado desde o fim da década de 1980 na Ford dos Estados Unidos.
+Posso dizer para que serve um zzseq, um seqchk ou intchk, mas explicar isso serve para dizer que eu domino uma tecnologia do final dos anos 1990.
+
+Desse jeito, resta aprender o novo padrão, o novo normal, a nova aplicação, o novo software, pois do contrário, serviremos apenas para contar história.
+
+Agora estamos a volta com a IIOT, dados borbulhando em nossas telas e tendo que aprender códigos diferentes de Ladder, inclusive HTML ou power-BI. São tempos interessantes e imagino se alguém, chegando agora, tal como eu no passado, não pensará que esse estado de coisas será pra sempre?
+
+Vai mudar de novo, tudo, em coisa de cinco anos, ou menos. Até lá, atualize-se, senão estará como eu, contando histórias.
+
+Estamos ao seu dispor para avaliar corretamente suas necessidades e maneiras de integrar o chão de fábrica à nuvem e como tratar esses dados de forma que se tornem relevantes e importantes pontos de apoio na tomada de decisões, seja olhando o passado, seja olhando o presente, seja prevendo o futuro.
+
+
+
+<a href="#top">**topo da página**</a>
+
+

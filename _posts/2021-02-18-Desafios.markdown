@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Novos Desafios na Automação"
+date:   2021-02-18 23:59:32 -0300
+categories: automation values
+author: Paulo
+---
+<div id="top"></div>
+
+<img src="/assets/Desafios.png" alt="desafios" style="width:100%;">
+
+## Desafios ##
+<img src="/assets/abarlavento.png" alt="Abarlavento Icon" style="float:left;width:90px;height:50px;">
+**Acompanho o mercado** por necessidade de atualização e para entender para onde estamos navegando, enquanto sociedade caminhando. Além do mercado, acompanho a política e a economia, pois neste país, talvez mais do que em qualquer outro, as decisões políticas ou a indecisão acabam por provocar desastres ao invés de incentivar o desenvolvimento privado.
+
+Esta área de tecnologia aplicada à automação nos setores manufatureiros se manifesta num misto de pujança e incertezas, em grande parte devido a pandemia, que ainda faz muito estrago mundo afora, e no Brasil cobra um pedágio de 250 mil mortos, com dados atualizados agora. Justamente as incertezas trazem a necessidade imediata de aplicar novas tecnologias nos processos. O mundo mudou e mudou muito rápido, isto é teve que se adaptar. Yuvahl Harari conta que a Universidade de Tel-Aviv discutia por quatro anos o uso de aulas on-line. Com a pandemia, em duas semanas todas as aulas passaram a ser on-line.
+
+Quem gosta de trabalhar com automação deve procurar cursos e especializações para aplicação prática e imediata em seu campo de visão e de trabalho ou oportunidades.  Infelizmente a pandemia fez muitas mudanças de rumo nas empresas, porém incentivou investimentos em muitas outras áreas, como a logística e na agricultura. A robótica é muito ampla, não só em robôs industriais, mas atualmente com AGV, carrinhos que transportam peças ao longo de uma linha de produção ou de logística, em um armazém, robôs colaborativos para manipulação de ampolas de remédios ou exames, e mesmo robôs apenas virtuais, capazes de tratar e interpretar dados e então tomar decisões baseados em AI.
+<img src="/assets/agro-tractor.png" alt="desafios" style="width:100%;">
+
+Entendo como fundamental, enquanto trilhador de carreira na automação, de processos ou robótica, o domínio do idioma inglês. Todas as documentações, linguagens e aplicações estão versadas no idioma do Bardo e não é possível trabalhar com automação desconhecendo o elementar desse idioma, pois "Os limites de meu mundo são os limites de minha linguagem" como dizia Wittgenstein, significando que vamos até onde nossa linguagem permite.
+
+Enquanto em países desenvolvidos tecnologicamente a automação é aplicada desde o conceito, no Brasil, pelos próximos cinco anos pelo menos, a partir do fim da pandemia, teremos muita demanda das fábricas e manufaturas para automatizar os processos existentes. Nosso trabalho em robótica e automação será cada vez mais atualizar os processos de fabricação e de serviços para uma maior eficiência. Implantar automação e robótica nos processos e como automatizar, integrando pessoas e robôs em laboratórios químicos, médicos e etc.
+
+A consultoria Ernst & Young informou que mais de trinta por cento das empresas aceleraram os planos de automação desde 2020, numa corrida insana pela eficiência dos processos.
+
+<blockquote>Além da robotização industrial ser uma das maiores tendências quando se fala em automação, outros conceitos conquistaram notoriedade e aceitação no chão de fábrica. A comunicação Machine to Machine, por exemplo, ganhou ainda mais força ao permitir que dados, antes coletados por operadores, pudessem ser coletados de forma automatizada. Assim, controladores lógicos programáveis, os CLPs, passaram a ser integrados a plataformas locais ou em nuvem, permitindo a consulta de seus registros e dados até mesmo de forma remota, para tomadas de decisão importantes.</blockquote>
+
+[Hélio Sugimura - Mitsubishi](http://br.mitsubishielectric.com/fa/pt/news/20210208_retomada.html)
+
+Virá uma avalanche em pouco tempo solicitando a implantação dessas tecnologias e devemos estar preparados, com as ferramentas a postos e os cursos de linguagens de programação já feitos. O futuro, que está logo ali, cobrará nosso conhecimento em programação e em criatividade, e devemos aproveitar nossa condição de usuários da tecnologia da melhor forma possível. A revolução dos computadores tirou a exclusividade de programação e desenvolvimento de softwares dos grandes centros tecnológicos e colocou nas mesas de quem quer que quisesse e tivesse conhecimento. Assim, projetistas e designers elétricos, com uma licença de e-plan podem trabalhar de onde quiserem e alunos podem se formar sem ter ido nunca a um campus físico de alguma universidade.
+
+
+<a href="#top">**topo da página**</a>
+
+
+
